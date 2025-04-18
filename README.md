@@ -1,1 +1,1 @@
-- 🔭 I’m currently working on [studypy](angiokas/studypy)!
+- 🔭 I’m currently working on [studypy](https://github.com/angiokas/studypy)!
